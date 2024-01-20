@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02c02e264ea2914db247e8715dd13f9, type: 3}
+  m_Name: PlayerShipBlueType1
+  m_EditorClassIdentifier: 
+  playerUISprite: {fileID: 21300000, guid: 29030af651f61e3478b5deb510cc2c5c, type: 3}
+  playerInGameSprite: {fileID: 21300000, guid: b6a9e6418cc537344853cac982063460, type: 3}
+  playerProjectilesSprites:
+  - {fileID: 6287563271905917515, guid: 78b5b5a37a1add64a9ffc4f7f2a103ec, type: 3}
+  - {fileID: 6287563271905917515, guid: c1362d4aabdb57f46b1d592d6b6358df, type: 3}
+  - {fileID: 6287563271905917515, guid: 8127de8538fff9f40a00c2a48d1ed4d0, type: 3}
+  - {fileID: 6287563271905917515, guid: 95736eec06f7df549aedecb621e0e78d, type: 3}
+  playerDamagedSprites:
+  - {fileID: 21300000, guid: 3b33237bdd5257344a14ff6a635f411d, type: 3}
+  - {fileID: 21300000, guid: 4fdcbe4282930614e83dd82ca586acfe, type: 3}
+  - {fileID: 21300000, guid: cb926eff0ae6dc647bd8401896929729, type: 3}
+  shieldSprites:
+  - {fileID: 21300000, guid: a84707f179bde21429be9b7a6abf155e, type: 3}
+  - {fileID: 21300000, guid: e511f4a25fccca5438a465a725f15499, type: 3}
+  - {fileID: 21300000, guid: 889aaa964e455e24f851bf4daf3a95c5, type: 3}
